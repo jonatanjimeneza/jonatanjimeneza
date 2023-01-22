@@ -1,44 +1,70 @@
-# Desarrollador Blockchain 2022
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/101588200/213937895-30c2f218-c3cc-42ff-bf56-7bece2715f24.jpg" />
+   <h3 align="center">¡Hey 👋! Soy Jonatan Jiménez👨🏻‍💻</h3>
+</p>
 
-¿Quieres convertirte en un 💻DESARROLLADOR de la tecnología BLOCKCHAIN⛓?
+<p align="center">Aprende lo último en tecnología. <strong>Blockchain, Web3, Machine Learning, IA, Natural Language<br />¡Revisa mi contenido 👇!</p>
+<p align="center">
+   <a href="https://youtube.com/@jonatanjimeneza" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jonatanjimeneza" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/jonatanjimeneza" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jonatanjimeneza" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/jonatanjimeneza" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jonatanjimeneza" height="28px" width="28px" />
+  </a>
+   <a href="https://tiktok.com/@jonatanjimeneza" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="jonatanjimeneza" height="28px" width="28px" />
+  </a>
+</p>
 
-¿Te intimidan los avances de las nuevas formas de almacenar información y quieres adaptarte a este cambio tecnológico💻?
+### 📹 Cómo ser [DESARROLLADOR BLOCKCHAIN](https://youtube.com/@jonatanjimeneza?sub_confirmation=1)
 
-¿Eres un emprendedor que quiere transformar su negocio con el poder de la tecnología Blockchain pero no sabes cómo conseguirlo?
+<a href='https://youtu.be/VEqwbr150AE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/VEqwbr150AE/mqdefault.jpg' alt='Cómo ser DESARROLLADOR BLOCKCHAIN' />
+</a>
+<a href='https://youtu.be/2Cd3FCQWq-A' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2Cd3FCQWq-A/mqdefault.jpg' alt='¿Qué es un programador Blockchain?' />
+</a>
+<a href='https://youtu.be/re18H3fTmnk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/re18H3fTmnk/mqdefault.jpg' alt='Salidas profesionales de un desarrollador blockchain' />
+</a>
+<a href='https://youtu.be/cbrPTriiLak' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/cbrPTriiLak/mqdefault.jpg' alt='Cuanto gana un desarrollador blockchain' />
+</a>
+<a href='https://youtu.be/iYpj4NRIiCQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iYpj4NRIiCQ/mqdefault.jpg' alt='Roadmap desarrollador blockchain' />
+</a>
 
-Si la respuesta a alguna de estas preguntas es Sí❗, estas en el sitio adecuado.
+### 📹 Fundamentos de [Solidity](https://www.youtube.com/watch?v=ABoxsThnIbE&list=PLAlzrAxf8m-i4ctrF24ZlB0qmPmnTjis4)
+<a href='https://youtu.be/ABoxsThnIbE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ABoxsThnIbE/mqdefault.jpg' alt='Token ERC721' />
+</a>
+<a href='https://youtu.be/bfB0sMB1Nv8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bfB0sMB1Nv8/mqdefault.jpg' alt='Token ERC721' />
+</a>
+<a href='https://youtu.be/TFw2DSAriHU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TFw2DSAriHU/mqdefault.jpg' alt='Token ERC721' />
+</a>
 
-# ¿Que veremos?
+### 📹 Aprende los estándar de los [Tokens](https://www.youtube.com/watch?v=EfIjUT8AiE4&list=PLAlzrAxf8m-hAlFMMZbVwA8P1fwnfP0LB)
+<a href='https://youtu.be/EfIjUT8AiE4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/EfIjUT8AiE4/mqdefault.jpg' alt='Token ERC721' />
+</a>
+<a href='https://youtu.be/KWRhOQmC_C8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/KWRhOQmC_C8/mqdefault.jpg' alt='Token ERC1155' />
+</a>
+<a href='https://youtu.be/j9EK2OT4v8E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/j9EK2OT4v8E/mqdefault.jpg' alt='Token ERC20' />
+</a>
 
-Smart Contract con Solidity
+### Últimos cursos en [mi canal de Youtube] (https://youtube.com/@jonatanjimeneza?sub_confirmation=1)
+- [Curso de Solidity](https://www.youtube.com/watch?v=ABoxsThnIbE&list=PLAlzrAxf8m-i4ctrF24ZlB0qmPmnTjis4)
+- [Curso de Smart Contracts con Solidity](https://www.youtube.com/watch?v=4eaF4kjqRTU&list=PLAlzrAxf8m-iqlk3Lw986qntjiJjDa0HC)
+- [Crea tu propia Blockchain](https://www.youtube.com/watch?v=o_6vn1eQdm4&list=PLAlzrAxf8m-iCesfrqREF2rBoK6woZl9Y)
+- [Curso de Desarrollo Web](https://www.youtube.com/watch?v=6fMVngZUaBg&list=PLAlzrAxf8m-hUE-ZxJxnSsOGUjSRGV_mU)
+- [Curso de HTML](https://www.youtube.com/watch?v=RFcd8bKYs8M&list=PLAlzrAxf8m-iuOit9C6vRcLobarvXt77k)
+- [Curso de CSS](https://www.youtube.com/watch?v=tLdgcEEnEKU&list=PLAlzrAxf8m-hVv6dxJOkeBFpfm5fNzEg5)
+- [Curso de JavaScript](https://www.youtube.com/watch?v=cFWBWTNRclE&list=PLAlzrAxf8m-iK4xTWcegRF6lC2836e6e4)
 
-Web3.0 - Aplicaciones Descentralizadas (Dapps)
-
-Web3.0 - Aplicaciones Descentralizadas (Herramientas)
-
-Web3.0 - Aplicaciones Descentralizadas (Diferentes Blockchains)
-
-NFTs
-
-Gaming
-
-Metaverso (Dentro del metaverso)
-
-Metaverso (Digital Human e inteligencia artificial)
-
-# Canal Youtube
-
-![DESARROLLADOR BLOCKCHAIN 2022 new](https://user-images.githubusercontent.com/101588200/159530145-5e2b262d-26d5-4e3d-ba20-5b4f5e4a2a36.jpg)
-
-¡Nos vemos en el canal de youtube!
-
-SIGUEME en el siguiente enlace: https://www.youtube.com/channel/UCfspyHKd_MkUamR5OFNByfA
-
-
-★SÍGUEME EN MIS OTRAS REDES★ 
-
-►Instagram: https://www.instagram.com/jonatanjimeneza
-
-►Linkedin: https://www.linkedin.com/in/jonatanjimeneza
-
- #blockchain #desarrolladorblockchain #developer
