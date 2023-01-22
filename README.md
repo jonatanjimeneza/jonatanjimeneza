@@ -59,7 +59,7 @@
   <img width='30%' src='https://img.youtube.com/vi/j9EK2OT4v8E/mqdefault.jpg' alt='Token ERC20' />
 </a>
 
-### Últimos cursos en [mi canal de Youtube] (https://youtube.com/@jonatanjimeneza?sub_confirmation=1)
+### Últimos cursos en [mi canal de Youtube](https://youtube.com/@jonatanjimeneza?sub_confirmation=1)
 - [Curso de Solidity](https://www.youtube.com/watch?v=ABoxsThnIbE&list=PLAlzrAxf8m-i4ctrF24ZlB0qmPmnTjis4)
 - [Curso de Smart Contracts con Solidity](https://www.youtube.com/watch?v=4eaF4kjqRTU&list=PLAlzrAxf8m-iqlk3Lw986qntjiJjDa0HC)
 - [Crea tu propia Blockchain](https://www.youtube.com/watch?v=o_6vn1eQdm4&list=PLAlzrAxf8m-iCesfrqREF2rBoK6woZl9Y)
