@@ -3,7 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Jonatan Jiménez👨🏻‍💻</h3>
 </p>
 
-<p align="center">Aprende lo último en tecnología. <strong>Blockchain, Web3, Machine Learning, IA, Natural Language<br />¡Revisa mi contenido 👇!</p>
+<p align="center"><strong>👨🏻‍💻Desarrollador Web3 & 🕵Auditor Smart Contracts<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://youtube.com/@jonatanjimeneza" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jonatanjimeneza" height="28px" width="28px" />
